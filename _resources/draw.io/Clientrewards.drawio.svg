@@ -1,0 +1,187 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="771px" height="801px" viewBox="-0.5 -0.5 771 801" content="&lt;mxfile&gt;&lt;diagram id=&quot;LADHS33Vx5u3fHzLyEl_&quot; name=&quot;Merchant signup&quot;&gt;zVlbU6MwFP41fdThDn3crZd1dhwdq7PrYySxZIWECcEWf/0GCOUStK0W8KnkEJKcL98550s6MxfR5pKBOLimEIUzQ4ObmXk2MwzdMl3xk1uy0uKYemlYMQxlp9qwxG9IGjVpTTFESasjpzTkOG4bfUoI8nnLBhij63a3Zxq2Z43BCimGpQ9C1foHQx6UVs/WavsvhFdBNbOuyTcRqDpLQxIASNcNk3k+MxeMUl4+RZsFCnPwKlzK7y7eebtdGEOE7/OBI5fBs8o3BIWrskkoET8/Ax6FoqWLR3V8OWVCU+bLIQy5JYCtkOxllaZ88MZnck2XiEaIs0x0YCgEHL+2cQZyu1bbfrVH4kE61e+gXMsrCFM56DVifgDE8sWi8YqcpLGCAaMpgSgfQRM+rwPM0TIGhXtrweg9IXlFjKPNh+7Kt5ZkgwwH3ZHtdU0uvWJM0CBW1e8rAJkKQLcUE54IG015wgGBmKxmhgOi3HHylMRbp5u0CUMRfWg3XCCJy5B8xpsc4mPgp+sdAFX8vB74vCPA5x0YQMJJlv2VzCoaj3nj1K6aZ5vmy7NMtvYKPEsNPHeqwLMUXt08/RM7n8+xi0xjx58+nzAAdV1Baoik7KrcqMJkfHLoh7pYh00dKY+tQPlC2PRBYx4bGvlpkVwbmd9rM0/JSeWi5Fc1wD8YA1mjWyxzdmcLtgvdb1fckYhnHJ14/eg63bie74fuJ7BzlSD+mSaYoCQvpFfkmU6e5EzHnjDJaR/hc5/FoihcXBGYJsXAO+rDDrDayA4AnT0mcvbnU6XptpLliXaqmeaOjFm0bhHDYqWIHZJGq5zZyqOTCX9dFbY3ayI8MrQFJRwIDfrdZEiXZuPyTBVsS+pjkPeJEMRgeng6tdIcFZ75ELVRd3pCxpssZByFAg9JETHA98Vm55UVIg5wEk5OBlfrCKcxq5n1ADe/X+7fSPYS2o/owY1d88QYRD1VbGhdpvRO70xGG0+t7TgMi1uDQvqwSExIyeSc8ZwOZ9wROXPwqe69mwLjKFcFlZstWT7SoUfXuhuhDabLjS/Ip+OfNHtRP7pE6kd9blnt8ql5e4E+yFHTUM8Dt4zCNFdl2h3yaRQhAr9H2rCNzilyzFJz8A39oBeMRp/En6zw9Nxd3yMW5SdKQGAp9CHmlCTfTuorNxPWmJxSpf49A5iUFbuEbpnGMWV8cqDsztX+qGeiD4VWA707cT5iqMhdnOYiGSTBEwUMTg6frnXxG1DziGb9z2VZFOr/f83z/w==&lt;/diagram&gt;&lt;diagram id=&quot;GunlKRV1sRllNO0wARqN&quot; name=&quot;Page-2&quot;&gt;zZVBb4MgFIB/jcctKtJ0x61z7aFd2vWw7MjkTUhQDGLV/frhxKqxS7rD2p2E7z148IHBQYukWiqSsY2kIBzfpZWDHh3f9zyMzKchdUsCjFsQK05tUg/2/BMsdC0tOIV8lKilFJpnYxjJNIVIjxhRSpbjtA8pxlUzEsME7CMipvSVU81aOsduz1fAY9ZV9lwbSUiXbEHOCJXlAKHQQQslpW5bSbUA0cjrvLTjnn6IHhemINXnDMizbfYGu4KraL6Jy10crMMbO8uBiMJueCUTsAvWdWdBySKl0EzkOuihZFzDPiNREy3NuRvGdCJMzzPN6cK6KqA0VANkF7oEU1Or2qTYqI+sNHtr5rZb9kfgdTeEDfQHlhF76vFx5l6MaVg3v/DkTzy9yUIZ8gIlUTR3/BlJGg/pe54dHVzR4Gws0MOnDOILGkQTg1tB6luDQqLS5nsfMQ4H+PcqT5i8O3EX0V+ZDCYm1zLm6dU9+e45d+6Sfy2emHqWBwM2oCJGzEavrQzhyykz3f6x+Y4NnmwUfgE=&lt;/diagram&gt;&lt;diagram id=&quot;_AiX-x8w8UWrMHxRB9E7&quot; name=&quot;Page-3&quot;&gt;zZjdc6IwEMD/Gh97gyBoH+tH27lpnd7ZOT9eblLYQmwgNgSR++svkfAltjptLb5odpPA5reb3YSWMfA3NwytvHvqAGnpmrNpGcOWrrfbpiH+pCZJNR3TTBUuw44aVCgm+B8opaa0EXYgrAzklBKOV1WlTYMAbF7RIcZoXB32TEn1rSvkQk0xsRGpa6fY4V6q7Zlaob8F7HrZm9ua6vFRNlgpQg85NC6pjFHLGDBKedryNwMgEl7GJZ13/UZvbhiDgB8z4QWiydVDf4EWjJLHgfl0/epfqKesEYnUgu+B2R4Sj9S1CXYD8Ret1AJ4klFhNAockA/WWkY/9jCHyQrZsjcWcSB0HveJkNqiWTc0eyswDpuSShl+A9QHzhIxJOtVQaOC6FIhjQuPtLOA8UresJQOqSBw8wcXnERDodqPbTNbLNfTxWg55Xw5jJdkOo72YBt4lIYg18moy5B/Bsi0g8z072Sm15iN6fo3xIg5YeO0cjznEmFGPcKikFMRV1o/CnEAoYCm5fgs5EsowVO4yoE0ibNXxWn0jow+8wt4TsdmlFz749v2/O+v1+lgMr/8eWHWmIAjEr0SAxpAFQJsMJ9JXj8s3VTyXPGT7eGmLCQl4QEYFjYDU7o3cYY0Yja8EwMdVe8Qc4G/szY1Ti7oXecwIIjjdbWyfYZ04tzBM/cMTxvPJu6o33kM831+POlAvHWWAZTCPOVuZnLBeislZemktPeOs5qi/Z7VpTzxQHHAw4s+CsWGF0U8CTk0X446+uEEq5nfmGDNGrjScUecE5n4HUMcEuAyumoZ1iLCwv6T7HFla+IhhgNXzKLBNtxsjKQRPjgYHUzQgiKvMg85oy8woISyYts8Y0J2VIhIs42hLXwjd0Ff+gSLA+yV6vCx48jX7HVyNQw+4+dkJ/OXHdvZk+mNU2X6j+efH2YlAx1IPx/PNNaRed346kyjpm4zRLE1rXZ1a+rdHdekhqpZO97Jzfj4TrRqO/ERA9smrzuaIMKTszvf7CJrG02frrv1OoCwREjOFGG3uxN1VtMIM5+WGP7ZNkvn7IahXXYbjLu9Oap+Ex75CMtpV7aHYQ2+WO2eC8pu+bylsZhjk/QSbW/vOsDkHUfwOrvg7XXr3POK9i3c6/fDMZWr2h7+zo5XrcQc+zXiZPfB+rl5y09WnuZpaTu0TrfJhVh8gUwLevEd1xj9Bw==&lt;/diagram&gt;&lt;diagram id=&quot;GsvUrRjrwFfDlKfAHHfo&quot; name=&quot;Page-4&quot;&gt;zVdLU9swEP4tPXimHMz4kRdHSCnQDh1oaEtPHcVWbA2y5MpKHPPru7KkxI4NAx0eySGSv12tVt8+ZDvhNFufCZSnlzzG1Am8eO2En5wAfpMxDAqpNDIKfQ0kgsQaagAzco8N6Bl0SWJctBQl51SSvA1GnDEcyRaGhOBlW23BaXvXHCW4A8wiRLvoLxLLVKOTobfFzzFJUruz7xlJhqyyAYoUxbxsQOGpE04F51LPsvUUU0We5UWv+/yAdOOYwEw+ZQGlk5/Ft/s/nnf8tbxFFf9+XLrGygrRpTnwFSdMFsZlWVkeBF+yGCtTnhOelCmReJajSElLiDxgqcwoPPkw7bpm98FC4nUDMq6eYZ5hKSpQMVJ3bDPAJE4wHOrnchsG33KbNkIwHB8aTWRin2ysb+mBiWHoGWwFHbb8evBu1XH3hLjheJe48HD8RO5G3isxN+kwdwbE5E4wQpnigM2LfHP+fUo731Z6kzq/L+1egLrqJnC/rH5fs+s5l1eji9GNG/WUKLBGYdcTsI9U60uRKLB2Y/R3qfrJyVIuFOf2EWaJGeuVRY5Yi2irGHHKhRMeg1Ak84/BAE4FbnvNyUFtCFopk+4CZYRWesE5pissSYQa8qJu6ErqB/m6KdBbKwnjIkO0IVshQRCMlCRILoVq/4/qRSh/SKU0EVLCgedpCcVSYuECCRFhSXclF3mKmDEZaAzyR7oIPGIajiDHsGjICOQpMzt59qi1RAowtgD7dieGtRRSqr6fGtuUXMRtxza24CzzOwLmlM1CCn6HXZOULb05iu6Sum7cnWgOAh3DcKzHwfig4WaMIy6QJJy5MiXRHcOF8Y0wIoklZ1e3EchH9Rq+tPQWlCO5y0xMipyiyqpTAoLA+0CynAuJmEnlneSeppwXSu9C4kyfsMBiRSJcxxT+8EqFqNNzPJmCCxDTuijmSl3gGOMMzeFoHXVdQlDLuopsZb135wr9YatzhUc9nWvc1/Rf4Lrs7Vxhp3PNIAnen6lJ+LQb0nulG7KXrGGHrB85lEas9lJpSeqk3rfrctCh8g3fNHp5HHV4vFwW0tZ1nlZFBL2HVnVjqdnjoqfI943YTeU2iQ3f8j2k+wpnPxXgi2zTMvc2U4Oj/83U57dHeNx+19WyxtdxePoP&lt;/diagram&gt;&lt;diagram id=&quot;TnX710kwoyYYrnE7KoYo&quot; name=&quot;Page-5&quot;&gt;rZPfT8MgEID/mj6alKKbvu6H88XFZEYT37DcCgktDWVt518vlWNtrWYu8anw3QHHdzSiy7zdGFaKR81BRUnM24iuoiQh13TuPh05ejKjxIPMSI5JPdjJD0AYIz1IDtUo0WqtrCzHMNVFAakdMWaMbsZpe63Gp5YsgwnYpUxN6avkVnh6exP3/AFkJsLJJMZIzkIygkowrpsBouuILo3W1o/ydgmqkxe8+HX3v0RPhRko7F8WrN9kRev3p5ftXU1Zs3neJturxO9SM3XAC2Ox9hgMuF2cbDdZNEJa2JUs7SKN67djwubKzYgbsqr0HdjLFtyhi2mFWHQNxkI7QFjxBnQO1hxdCkavg058PiSIbwbNQCQGfQiMYfuz0869ITdASRcIo+eFGX0oeCdgFZ+X9g+OyPybo9nUEUl+kDS7XJKb9i/2Kzb47+n6Ew==&lt;/diagram&gt;&lt;diagram id=&quot;-_AKhGnSFK9fDZkt7ptF&quot; name=&quot;Page-6&quot;&gt;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&lt;/diagram&gt;&lt;diagram id=&quot;FyGEUsh-TRJgSj9Sn51m&quot; name=&quot;Page-8&quot;&gt;7ZVLb9swDIB/jY8FHAu1u2uTrN2hpwzocVAt2hYqi4KsxEl//ShZfrUrsAwDdtlFkD+KFB8inbBte36w3DRPKEAlWSrOCdslWfalyGn14DKAu6wYQG2lGNBmBgf5BhGmkR6lgG510CEqJ80alqg1lG7FuLXYr49VqNa3Gl7DB3AoufpIn6VwTYziNp35I8i6GW/epFHS8vFwBF3DBfYLxPYJ21pEN+za8xaUz92Yl0Hv6yfSyTEL2v2OAit+GHHYN1Dm38QmZ/sn+XwTrZy4OsaAkyxXZO++IVFe+90jcCF1PQrohlk2QjOCrQXu0HYh/UArnA1YCboMJlIeatUacPLkxYpr0ZXc+L1rZBccBn8q7B3S0oAyXm02TUZJb1AB65+XrKXjKlQYnbGScpLlvDXkkn7pzMJV8t986n7NW1nJkjuJmoxh5R3RlTrqMtzTcvtKrodsXG993xrsKRshE4tweklvxQcD8XlPobeo6bo3WISKvffshLKEP3JiBC/2PfmXaqFD3GVsOwfn8AhdqwhsaNs5i6+wRYWWiKa8EKykUu9QZ3h4amx3O399R0rP7oY6hN33jXRwIO6v6mloEcMT2EqF7mykEKCJWTxqAb550snDZbeNrQOWnF2g2H0PgC04e6Ej4yyMgyBOQnYXv/t5rkxjr1nOlCJCHmdZPZme2502seOv6P7sb3f//2pP1WbFZl3uPP9Y7uIX5c7S68tNn/OPJMgWf2O2/wk=&lt;/diagram&gt;&lt;diagram id=&quot;aLjFVtupgWsFcJS0JCWc&quot; name=&quot;Page-9&quot;&gt;zZbBcpswEIafhmMzAoHta+vYTjtNe/A0bXpT0BY0FRIjhDF9+oogGQiNSzIhkxPaXwtaPv0L8vA6O+4UydNrSYF7AaJHD196QeCHeGkujVK3ygL7rZAoRm1SJ+zZH7AismrJKBSDRC0l1ywfirEUAmI90IhSshqm/ZJ8uGpOEhgJ+5jwsfqdUZ226ipCnX4FLEndyj6yMxlxyVYoUkJl1ZPwxsNrJaVuR9lxDbyB57i0920fmT0VpkDoKTdsYFvf/Cy/7g4rfL399im6UcW7ha1N1+6FgZr3t6GQwlw+pDrjJvLN0Kyl6h8mQBeRC2/7c5fNzqNTVNtoXKytv5CliuFMhW7TiUpAn8kL27ym/N4CFsUOZAamHpOggBPNDsPtJdYlySmvA2kGluUTuNrnHggv7UqfmfgN9KNoMMhCj7grWQoK1PKqUqZhn5N7NJVpreE2PIrzAErD8SwAO+scbPvSd3HVudx31k17Dl+gmZBFT7Ti8y2FJ1rKf1OWWj27VfuNii6W0Wy9OhXs8k2BxaNeXUuhm5cfAefc/HfgVfozCB80aDixQVdzNWg44vQFzO81QO+VZrFhFCxI1oAQd0V+gvDPT5z/f4RExfY0cNaT04HiIc+pOGf73i1HOG9lqcs7aE4zKTHHGf6yRF+AYfjQlHg+iibsDkf3c70jJt78BQ==&lt;/diagram&gt;&lt;diagram id=&quot;bbBkkcg0UyU68N2c4a9K&quot; name=&quot;Page-10&quot;&gt;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&lt;/diagram&gt;&lt;diagram id=&quot;RV6JnF-WAXIzwslaTalb&quot; name=&quot;home&quot;&gt;3VjbcpswEP0aT5/IcDE4foztxJ1k2mScTtL2pSPDGtSAxAj51q/vCoTNrU6bxpmMnywdSWj37NllTc8ZJ5upIGn0iQcQ92wz2PScSc+2rb4zwB+FbDUycKwCCQUNNLYH7ukv0KCp0SUNIKttlJzHkqZ10OeMgS9rGBGCr+vbFjyu35qSEFrAvU/iNvpIAxkV6Llr7vGPQMOovNky9UpCys0ayCIS8HUFci57zlhwLotRshlDrNgreSnOXf1hdWeYACb/5oAvmQizG+/nzWpEoxt3BrdTwy6esiLxUjs8FkAkF5k2Wm5LJiRs8J5RJJMYAQuHmRT8CcY85gIRxhnuHC1oHDcgEtOQ4dRHSwHx0QqEpMjxhV5IaBCoa0briEq4T4mv7lyjpBATfMkCUE6YOGt7rYlQz4RNBdIsTIEnIMUWt+hVx9MR0Zo819P1Pr5DDUWV0DoaI1pR4e7Be9JxoHn/hxi4rRiMlhllkGVwwlGwLbcWhYHbisKgIwr9Y0XBa0XhM18h8BnWJxwFx3o2F7wj5cL1anE7mXzfPEWPZHp18fAQz6nhtKiGAOuxnmoOK7Sj52L7VfFx5pbTb9W1yUaTVcy2z1GX8aXw4YBO9AtNEhGCPOBJv9inzD8YCAExkXRVf9108aqP3nGKJu8CaNn1NLIbkSns1IcawdlZ8fKsGbSyZgZrIoJTTpk64W+YMZ0ROG9FoGd7cU41+uGFajRa0jigLMR9Y54kS0alcqhnIx/mlCR0gXRKyll5FC3Zny7BtAQuWai6JnSGBUriRLAz/J1BAJDkktYSwHZLqB6OLpRi/QJEN022kB/00BfbVHI9JllUjPJzAWdEQt7xKb4xM9UjyYoLmsN+RETuiUcSFWo2z9KKvehEuvfh1eSYob4Ul87E3c++cLx5YtjmH1TIUV+LOG//IlQrsGMos19XpuW2pdm3OrRpea8gzsHFj8WXaxtm88fz24eriXF9fWFYLd7/upzvpnk5PzMd55mSns/uQFA0XZWJ/6zzw3ad73TRfps6v2t8dHCNZsyOXOiHHYW+SPdTrfOW875ao5fnUjWTKn3S/7RGk6/9S3cw9iPr23cu++7HfiJKC59tjd4oZbxGbzs8WsYcYqOSMXeCo+zhdFOmb7+vlGl/3bgH0B0LvrQz9XTbXKZB0WakZXyu5gS1qZcFYU/F5mab0Qhjnc4uwisRfgW2m/o27DbdnV8yXuV9f+hPT/NP9Dsjrt4mGR0q3f2rqtLmHqtLast0BvhyTchcidFEOhLVTM9JBqrfVm16VcJoBwIx37XwzW74fbFvNT6/GcMO2dodsn0B/zjdf2AtCvv+O7Vz+Rs=&lt;/diagram&gt;&lt;diagram id=&quot;eIMGLM_zz-jm6Nre9r9J&quot; name=&quot;Creators&quot;&gt;5VnbctowEP0aZtoHOr5gII+BJG1m0rQNvb90hL1gTWxJI8sB8vVdYfnuUGZKUobmIZaPV9L6nJW0XnruNF6/lUSE73kAUc+xgnXPveg5+Dce4UUjmwwZunYGLCUNMqgCzOgjGNAyaEoDSGqGivNIUVEHfc4Y+KqGESn5qm624FF9VkGW0AJmPona6DcaqDBDx55V4u+ALsN8ZtsyT2KSGxsgCUnAVxXIvey5U8m5ylrxegqRJi/nJet39cTTwjEJTO3TYZ5cfLDHVz/vLvzv8/Mvs0fr87u+k43yQKLUvHDPGUY43iTECYZL3brhSIemWAJRXCa5BU5VGuWgaAJz2USwX8VqS43a5HwrWG9nV3GEgI3NREl+D1MecYkI4wwtJwsaRQ0oEcSnbImAV9595gKBPlLjTlYhVTBDXE+1wnBFjD+AXERbWUIaBMAQkzxlAWjWrMLDKs2GeeyJzlYgQ/tb4DEouUGTfBWYCDBLwBma+1UZUI5rsLASTLkdMTG8LEYuZcaGUbpb9Sl//PrjcXztCDL/eXllnVlk0LdbtEOAUW9uDZ8VCZ7kIOGp9GFHfLlmyRK5BLXDo0Fmp93YyaiEiCj6UF+cXfyYrh85RZcLJfpndSkGllcfInPU9GqwXLixF/G76Kgtt4YSXVFakYIkItvmFnStY/QZ4tMdtOPT7orPAvybAO3kaXCUPNnjoyPKO0qiXPfoiBoeJVGe1SDK++dEjfbICK4wEUglklBLCkisGWPzRNQP+2qS8P+d9l5H7D/baf9LyfNPk+mn69u+2ETe/bWT2PlpX1F0Woh2MD1IRJdI54WPxAHiE00YxcTx3DyIkXA9TacwBxdh1BChrcFZhwSHWFSdErTT7EmaUAZJAicsQkF7nm15LRVGHSoMnkuFdvZ1yx8QuIXVCavQPIw71sLwJddCO7e7gxWRwQlLYP95O3pRCdpZ4x0EAPHpKjCwj0uBdjr6UXKkEU5YgsbXk9c+DV5Ugn0S3RsgAcgkpAIt5xx3qf2KX2/+v1qXUdV22itr4HXoOjqArrtKSRVdbwgLNFum2utYKiS6KARrIU0Kln/HYItRP4SnPmfKauZMcD2G4vgvFREn+mtIgg9UKD1gX79bun3s81hEoMA0CdtkLCsGZTW1MjL36bbgGkNACV75oupg0zzfuneMKFLphyTJHKAML68486H22tjA995SgWKTrZUk7P716e5I/eaWVKRKleB1D/X5jbdlsT8rKJY/mbiXvwE=&lt;/diagram&gt;&lt;diagram id=&quot;IkuP5umvxeDmnld_eF7R&quot; name=&quot;Redeem&quot;&gt;zZZNc5swEIZ/DUd3MIppemyMG/cjl7of06OC1qCJkCgSBffXdwWSAZNMkplmnIstvbtodx+tEAFZF+11Rcv8RjEQQRSyNiBJEEXLC/IW/6xy6JWYLHshqzhzToOw43/BiaFTa85ATxyNUsLwciqmSkpIzUSjVaWaqdteiWnUkmYwE3YpFXP1J2cm79XLVTjoW+BZ7iMvQ2cpqHd2gs4pU81IIpuArCulTD8q2jUIC89z6Z/78ID1mFgF0jzlgR8t/6g/b/Umuf2+YJ9u3rNfq4Vb5Q8VtSv4KwCDwqVsDp5DpWrJwC4VBuSqybmBXUlTa21w51HLTSFwtsThPDUfByoD7UhyqV6DKsBUB3RxVg/44BvJzZthEyKPOh9tQOw06vY9O648oMGBo/MMUtGMVKIkNfDaSB377WykyIzURhqoUNo1AKU29A5P9CvDRsJzY7uYYTs7IxKfnEIyh3TUxpCW0UtRWj1O6REuVJf9RbHnrWX5EqCiePVEUOSlQMX3gIqFsSywljizoy1QxmXmDRhnsHmx9MIXVdl7IcSbt7b/TAllD7XmxuaPWQfRur+JNQIGU1srBii55mkXJgTBnZdG9HYNK/JaF8pODRRltyaXKWec1dIuXdsfQW8xvvU2PjZ0t2wmqQ0j+O+avhlVUg6FnPQH7qmZtoQ2lbqDdVcQSaSS6Hm150KcSBqbyhZCktUw+6awwZJF9NCRVNhGe9Hd/DlnDCRq04P8PxqQnL7O5m+zd/f03+Xz2w+nw0dLZxt9+pHNPw==&lt;/diagram&gt;&lt;diagram id=&quot;sZjZMpQcZf3qfyqCYLYh&quot; name=&quot;Page-13&quot;&gt;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&lt;/diagram&gt;&lt;diagram id=&quot;G9vnaGilWcjbdshWhV5e&quot; name=&quot;Page-14&quot;&gt;7Vldc9soFP01fkwGSf58jB2nuzPpTnbT7bb70iEStpgg0ACK7f76vSDQp5M6qRNPZ/Niiyu4oHPPPVykQbTIth8kztOPIiFsEKJkO4guB2E4mw7h1xh2pSGYhZPSspY0cbbacEu/E2dEzlrQhKhWRy0E0zRvG2PBOYl1y4alFJt2t5Vg7VlzvCY9w22MWd/6D010WlqnI1TbfyN0nfqZA+TuZNh3dgaV4kRsGqZoOYgWUghdXmXbBWEGPI9LOe7qkbvVwiTh+qAB/2ZypbPht+mSFX9fJeTP7eezsVub3vkHJgk8v2tyweFvnuqMQSuAy7K76fPoKpxJiULG5ImpgwoDIA8RGdFyB+MkYVjTh7Z/7KK4rvpVQ28EhZlD5BgXjB3cjnCRJ5J3obFcE+1G1XDBRWMZtcmC+AxAp88ElGyp/gLXZ+gcoakzfAUDOp+hsWtfmodDvrFrNG6IpLBkIr2Nw/K/2OGjydQbvroJgom31B5ta9dsdX0eO+aQwTYGT/Qbvgo3RtMON6K35YZb8ANmhXuEC50SBlCrQTjGWQ5g8zuVV5g3WKQlxXxtWvNNSjW5zbFFegOy22aUFBpAEtzEfFbH74FITbZPR7CPuBsQjdrInfn2ptbEwAtd2tTDCXo8Si18nwvm6LmJVmeGSzSfGeh8eOK0iA5Mi5+VzJ8CfPZiwJtgBz+A+nBUTyQiYdROheGow/Ay2j0RuZAS7xrdctNBPT7PEHXnGXZCWHo8qkJFPYW6wlz1Ag+lTG4ui4xdxFpARsyNvFAom67xHWE3QlEnQXdCa5E1OlwwujY3tOjolig0o5wsqkLuSNpV6ZJX/bCvXbM3la7J6Yqu4a+gNL5kOxlAxxeNLgdnb1t5DHt5PS8UJJv6ceEB3uGsdUDdgVVe5u2KbklynNztVWxoT90x3Ze809dK3qBfxQGGTBsw4NZ4ba5ANQ0hOZwOM/OoPZDLAbCAeow35t5wTXBCpEopWNCdwDKBaMGi0XIbMwgfsNE2L6mKRWHplhEZp5gn5hht76kNIbnS+N6UmHD6lQZ+Cbf3BL5aU14vqVuFkq1uR11pKe5BtJnZBXxqrihjHZMC3lC+BsOobn0ye8DlWYgeYZcA8qyYPTSnNEkIt+VtwRPDr2PtD50D42gPxcLJPoqFr0ax/jbcp9i1gM3URKfIcyFfSLEbLDUvOea49ZHGUhi3ueDCkW+xx/k7dyxZuuQJTk+evtb3yTOXIBJGVQrKEgMtTAmxB7g1/V6eHt/58xb86Rwmxqenz+gA+nzAGV1BMV8SBYkV/Pzx+/VhnJljqNMcW27cIchcl4z8C/N7ZREo18pjSTCUH63dFN2VNdkG9kTLXsTEzqrhyh5XnC8njcBP68nUvanxFIssKzjVu3ce+vp01ubhWbCHidHeFzyvx8TxAUz8lEpiQqqowQPkB8t7onNmIDyIjcuCi4fCEsQSx5Kk7TNr+vQfGkra4fr93aJiX01m5vZoQziozMg5XNeFt+d4bt8LmD5UKZdR5kdhZqs224DpNZRvWem+fG/Y84H3+qmKQptGSrDk3LmwC0cEy3pOkG0lvKC7xygdNMb/b/Ok+prg8iQ8eL9/wXkEmvXXofIkWH9ji5b/AQ==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <path d="M 295.45 265 L 104.28 475.29" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 100.75 479.17 L 102.87 471.64 L 104.28 475.29 L 108.05 476.35 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 419.02 265.96 L 619.49 462.48" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 623.24 466.16 L 615.79 463.76 L 619.49 462.48 L 620.69 458.76 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 290 120 L 410 205 L 290 290 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" transform="rotate(-90,350,205)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)rotate(-90 350 205)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 205px; margin-left: 291px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                Atheletes
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="350" y="209" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Atheletes
+                </text>
+            </switch>
+        </g>
+        <path d="M 150 513.63 L 329.23 269.18" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 332.34 264.94 L 331.02 272.66 L 329.23 269.18 L 325.38 268.52 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 170 620 L 330 623.76 Q 340 624 350 623.98 L 539.99 623.65" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 545.24 623.64 L 538.25 627.15 L 539.99 623.65 L 538.24 620.15 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <ellipse cx="105" cy="511.25" rx="22.5" ry="21.25" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <path d="M 105 532.5 L 105 603.33 M 105 546.67 L 60 546.67 M 105 546.67 L 150 546.67 M 105 603.33 L 60 660 M 105 603.33 L 150 660" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 667px; margin-left: 105px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+                                Fans
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="105" y="679" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Fans
+                </text>
+            </switch>
+        </g>
+        <path d="M 556.83 487.38 L 397.71 270.14" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 394.6 265.9 L 401.56 269.48 L 397.71 270.14 L 395.92 273.62 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 520 560 L 166.37 560" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 161.12 560 L 168.12 556.5 L 166.37 560 L 168.12 563.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <ellipse cx="610" cy="560" rx="90" ry="90" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 178px; height: 1px; padding-top: 560px; margin-left: 521px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                Business
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="610" y="564" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Business
+                </text>
+            </switch>
+        </g>
+        <rect x="0" y="670" width="270" height="120" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 262px; height: 1px; padding-top: 660px; margin-left: 5px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 130px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <h1>
+                                    Fan enagement
+                                </h1>
+                                <p>
+                                    Leadership boards, Exclusive, Discount merchandize, sweepstakes for prizes
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="5" y="672" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    Fan enagement...
+                </text>
+            </switch>
+        </g>
+        <rect x="500" y="680" width="270" height="120" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 262px; height: 1px; padding-top: 670px; margin-left: 505px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 130px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <h1>
+                                    Local support
+                                </h1>
+                                <p>
+                                    Partnerships, Micro sponorship,
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="505" y="682" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    Local support...
+                </text>
+            </switch>
+        </g>
+        <rect x="470" y="230" width="270" height="120" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 262px; height: 1px; padding-top: 220px; margin-left: 475px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 130px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <h1>
+                                    Brand building/ Monetization
+                                </h1>
+                                <p>
+                                    Partnerships, Micro sponorship,
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="475" y="232" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    Brand building/ Monetization...
+                </text>
+            </switch>
+        </g>
+        <rect x="230" y="10" width="320" height="120" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 312px; height: 1px; padding-top: 0px; margin-left: 235px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 130px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <h1>
+                                    Gamification of NIL
+                                </h1>
+                                <p>
+                                    Badges, Points, and Ranks will increase enagement by rewarding loyal fans and supporters in the community
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="235" y="12" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    Gamification of NIL...
+                </text>
+            </switch>
+        </g>
+        <rect x="250" y="380" width="270" height="180" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 262px; height: 1px; padding-top: 370px; margin-left: 255px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 190px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <h1>
+                                    Three sided Marketplace
+                                </h1>
+                                <p>
+                                    Eunovus is a three sided marketplace connecting atheletes, fans, and local commerce. Business will pay commission on sales on platform, Atheles will pay a commission on merchandise sold. Athetes earn on sponsorships and merchadise sold
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="255" y="382" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    Three sided Marketplace...
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>
